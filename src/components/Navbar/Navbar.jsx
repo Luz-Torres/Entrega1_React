@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <header>
             <Logo/>
-            <h1>Tienda Tech</h1>
+            <h1>Tecno Tienda</h1>
             <nav>
                 <ul>
                     <li> Productos </li>
